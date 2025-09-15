@@ -1,0 +1,20 @@
+{
+  "name": "CUREFOREVER Social Post Generator",
+  "short_name": "PostGen",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#123524",
+  "icons": [
+    {
+      "src": "Cureforever-logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "Cureforever-logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

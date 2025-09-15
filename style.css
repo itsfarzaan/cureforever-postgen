@@ -1,0 +1,46 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0; padding: 0;
+  background: #f9fafb;
+  color: #123524;
+}
+
+header {
+  background: #123524;
+  color: #fff;
+  text-align: center;
+  padding: 1rem;
+}
+
+.logo {
+  height: 60px;
+  display: block;
+  margin: 0 auto 10px;
+}
+
+main {
+  padding: 1rem;
+  text-align: center;
+}
+
+textarea {
+  width: 80%;
+  height: 100px;
+  margin-bottom: 1rem;
+  padding: 0.5rem;
+}
+
+button {
+  padding: 0.7rem 1.5rem;
+  background: #34a853;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+#output {
+  margin-top: 2rem;
+  padding: 1rem;
+  border: 1px solid #ddd;
+  background: #fff;
+}
